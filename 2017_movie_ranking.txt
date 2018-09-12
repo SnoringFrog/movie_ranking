@@ -24,28 +24,31 @@ Bladerunner 2049
 Dunkirk
 The Foreigner
 John Wick 2
-Life
 
 6:
-Justice League
 Kong: Skull Island
+Life
 Molly's Game
 Roman J. Isreal, Esquire
 The Shape of Water
 
 7:
-A Ghost Story
-The Babysitter
-Colossal
-It
-Logan
 Mary and the Witch's Flower
 Only the Brave
 The Post
+
+8:
+A Ghost Story
+The Babysitter
+Colossal
+Ingrid Goes West
+It
+Logan
+Raw
 Spiderman Homecoming
 Split
 
-8:
+9:
 Batman and Harley Quinn
 The Big Sick
 Detroit
@@ -53,10 +56,11 @@ Fist Fight
 The Florida Project
 Glass Castle
 Jumanji
+Justice League
 Murder on the Orient Express
 Thor Ragnarock
 
-9:
+10:
 Alien Covenant
 The Circle
 Darkest Hour
@@ -64,11 +68,10 @@ The Exception
 Loving Vincent
 Marshall
 Power Rangers
-Raw
 War for the Planet of the Apes
 Wonder Wheel
 
-10:
+11:
 3 Billboards Outside Ebbing Missouri
 American Made
 The Beguiled
@@ -77,16 +80,19 @@ Mother
 Same Kind Of Different As Me
 Star Wars: The Last Jedi
 
-11:
+12:
 All the Money in the World
 American Assassin
 The Belko Experiment
+Bright
 Daddy's Home 2
 Disaster Artist
 Free Fire
 Pirates of the Caribbean: Dead Men Tell No Tales
+Sleepless
+Sweet Virginia
 
-12:
+13:
 Call Me By Your Name
 Girls Trip
 The Greatest Showman
@@ -95,24 +101,26 @@ The Layover
 The Lost City of Z
 Megan Leavey
 Pitch Perfect 3
-Sleepless
-
-13:
-Atomic Blonde
-Battle of the Sexes
-Downsizing
-Good Time
-Stronger
-Thank You For Your Service
 
 14:
-The Bye Bye Man
+Atomic Blonde
+Battle of the Sexes
+Blade of the Immortal
+Good Time
+King Arthur: Legend of the Sword
 Little Hours
+Stronger
+Thank You For Your Service
+Valerian
+
+15:
+The Bye Bye Man
+Downsizing
 My Friend Dahmer
 Suburbicon
 
-15:
-Ingid Goes West (ending makes it hard to rate)
+16:
+1922
 All I See Is You
 Before I Fall
 Birth of the Dragon
@@ -125,31 +133,32 @@ Kidnap
 Kingsman: The Golden Circle
 Pokemon the Movie: I Choose You
 
-16:
+17:
 Bad Mom's Christmas
 Dark Tower
 Ghost In The Shell
 The Great Wall
-Killing of a Sacred Deer
 True to the Game
-Valerian
 xXx: Return of Xander Cage
 
-17:
+18:
 47 Meters Down
 Beatriz At Dinner
 Flatliners
 Geostorm
+Keep Watching
 LBJ
+November Criminals
 Rings
 Wish Upon
 
-18:
+19:
 Brad's Status
+Killing of a Sacred Deer
 Mindgamers
 Unforgettable
 
-19:
+20:
 Beauty and the Beast
 Friend Request
 Resident Evil: The Final Chapter
